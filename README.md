@@ -7,6 +7,4 @@ they gave the script to a few people. This happened a long time ago, but i didn'
 Now the community re-opening and is using a little bit older version of the script - so i've decided to release it.
 
 ## Credits
-Special thanks to Gammix from whom I learnt a lot about arrays
-SA-MP forum for pointing out errors in the time of development
-Me for the script, anti cheat, some mapping and MyMSG.pwn
+Special thanks to Gammix from whom I learnt a lot about arrays, SA-MP forum for pointing out errors in the time of development and Me for the script, anti cheat, some mapping and MyMSG.pwn
