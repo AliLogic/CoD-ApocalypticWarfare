@@ -1,0 +1,33 @@
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(1) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(1) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(2) : îøèáêà 021: èäåíòèôèêàòîð "CreateDynamicObject" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(2) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(3) : îøèáêà 021: èäåíòèôèêàòîð "CreateDynamicObject" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(3) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(4) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(5) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(5) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(6) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(6) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(7) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(7) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(8) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(8) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(9) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(9) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(10) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(10) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(11) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(11) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(12) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(12) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(13) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(13) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+G:\Latest\Works\Call of Duty Apocalyptic Warfare\Modules\Maps\Villa.pwn(14) : îøèáêà 021: èäåíòèôèêàòîð "CreateVehicle" óæå îáúÿâëåí
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
