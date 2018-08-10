@@ -4957,7 +4957,7 @@ CMD:credits(playerid)
 {
 	new str[500];
 	strcat(str, ""COL_RED""#SERVER_NAME" - Script version "#SCRIPT_REV" by "COL_WHITE"eXpose\n\
-	"COL_RED"Community Owners: "COL_WHITE"eXpose and Flake\n\
+	"COL_RED"Community Owners: "COL_WHITE"eXpose\n\
 	"COL_RED"Mapper: "COL_WHITE"N/ A\n\
 	\n"COL_RED"Special thanks to: "COL_WHITE"Jarnu, Gammix, OstGot, Slice, Ralfie, Southclaw and the SA-MP team.\n\n\
 	"COL_WHITE"We'd also like to thank all the admins for their efforts.");
