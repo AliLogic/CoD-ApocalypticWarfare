@@ -1,5 +1,5 @@
 # CoD-ApocalypticWarfare
-Another one of my COD scripts
+Another one of my COD scripts (currently being utilised by https://eoagaming.com/forum/)
 
 ## History
 this script was originally made for myself, but later I decided to use it for a server, the community had some issues, and
